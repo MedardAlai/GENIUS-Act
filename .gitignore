@@ -1,0 +1,11 @@
+# Temp files
+~$*
+*.tmp
+
+# Executed notebook copy
+Project3_executed.ipynb
+
+# macOS
+.DS_Store
+__pycache__/
+*.pyc
